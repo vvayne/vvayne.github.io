@@ -1,24 +1,31 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-07-06 03:06:19
+title:  "Construction"
+date:   2014-07-08  
 categories: jekyll update
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+ToDo On The Website: 
 
-Jekyll also offers powerful support for code snippets:
++ 	Add page and link to projects I'm working on
++	Add page and link to books I'm currently reading
++	Change frontpage to feature blog entries 
++	Try tweaking other peoples' designs 
++	Add a feature that allows people to hover over links and preview what the entry will be about
++ 	Add dark/light mode
++	Add distraction free reading. purely black text on white, or the opposite. 
++	Add personal customization for people when perusing my site 
++	Have links to the book and photo of its cover
++	Write summaries, insights and reviews of the book
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+
+`Hi all.`
+{% highlight C %}
+int main(int argc, char* argv[]){
+	puts("hello world");
+}
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+Check out the [my homepage][vvayne.github.io]
 
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll]:    http://jekyllrb.com
+[vvayne.github.io]: https://vvayne.github.io
