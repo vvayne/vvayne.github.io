@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wayne Shu</title>
-    <description>Thoughts, projects, and stuff I&#39;m learning</description>
+    <title>Wayne</title>
+    <description>Thoughts, projects, and stuff I&#39;m learning about</description>
     <link>vvayne.github.io/</link>
     <atom:link href="vvayne.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 08 Jul 2014 02:03:20 -0700</pubDate>
-    <lastBuildDate>Tue, 08 Jul 2014 02:03:20 -0700</lastBuildDate>
+    <pubDate>Tue, 08 Jul 2014 19:41:16 -0700</pubDate>
+    <lastBuildDate>Tue, 08 Jul 2014 19:41:16 -0700</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
@@ -32,7 +32,7 @@
 	&lt;span class=&quot;n&quot;&gt;puts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;hello world&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://vvayne.github.io&quot;&gt;my homepage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out &lt;a href=&quot;https://vvayne.github.io&quot; title=&quot;alink&quot;&gt;my homepage&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 08 Jul 2014 00:00:00 -0700</pubDate>

@@ -26,6 +26,6 @@ int main(int argc, char* argv[]){
 }
 {% endhighlight %}
 
-Check out the [my homepage][vvayne.github.io]
+Check out [my homepage][vvayne.github.io]
 
-[vvayne.github.io]: https://vvayne.github.io
+[vvayne.github.io]: https://vvayne.github.io "alink"
