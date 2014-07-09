@@ -5,8 +5,8 @@
     <description>Thoughts, projects, and stuff I&#39;m learning about</description>
     <link>vvayne.github.io/</link>
     <atom:link href="vvayne.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 08 Jul 2014 19:41:16 -0700</pubDate>
-    <lastBuildDate>Tue, 08 Jul 2014 19:41:16 -0700</lastBuildDate>
+    <pubDate>Tue, 08 Jul 2014 21:55:36 -0700</pubDate>
+    <lastBuildDate>Tue, 08 Jul 2014 21:55:36 -0700</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
@@ -36,13 +36,11 @@
 
 </description>
         <pubDate>Tue, 08 Jul 2014 00:00:00 -0700</pubDate>
-        <link>vvayne.github.io/jekyll/update/2014/07/08/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">vvayne.github.io/jekyll/update/2014/07/08/welcome-to-jekyll/</guid>
+        <link>vvayne.github.io/construction/</link>
+        <guid isPermaLink="true">vvayne.github.io/construction/</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>posts</category>
         
       </item>
     

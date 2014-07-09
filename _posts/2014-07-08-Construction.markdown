@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Construction"
-date:   2014-07-08  
-categories: jekyll update
+date:   2014-07-08 
+categories: posts 
+permalink: /construction/
 ---
 
 ToDo On The Website: 
