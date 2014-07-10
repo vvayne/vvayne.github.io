@@ -1,0 +1,12 @@
+# Site settings
+title: Wayne
+email: vvvayne@outlook.com
+description: "Thoughts, projects, and stuff I'm learning about" 
+baseurl: ""
+url: "vvayne.github.io"
+twitter_username: none
+github_username:  vvayne
+
+# Build settings
+markdown: kramdown
+permalink: pretty
