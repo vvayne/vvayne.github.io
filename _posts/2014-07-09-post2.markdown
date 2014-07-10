@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Another Post"
+date:   2014-07-09 
+categories: posts 
+permalink: /post2/
+---
+
+Prototype and iterate. Still building and it's a lot of fun. The smell of code is very nice. 
+Presence > Productivity. 

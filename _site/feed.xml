@@ -5,9 +5,23 @@
     <description>Thoughts, projects, and stuff I&#39;m learning about</description>
     <link>vvayne.github.io/</link>
     <atom:link href="vvayne.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 08 Jul 2014 22:25:52 -0700</pubDate>
-    <lastBuildDate>Tue, 08 Jul 2014 22:25:52 -0700</lastBuildDate>
+    <pubDate>Thu, 10 Jul 2014 00:35:41 -0700</pubDate>
+    <lastBuildDate>Thu, 10 Jul 2014 00:35:41 -0700</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
+    
+      <item>
+        <title>Another Post</title>
+        <description>&lt;p&gt;Prototype and iterate. Still building and it’s a lot of fun. The smell of code is very nice. 
+Presence &amp;gt; Productivity. &lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Jul 2014 00:00:00 -0700</pubDate>
+        <link>vvayne.github.io/post2/</link>
+        <guid isPermaLink="true">vvayne.github.io/post2/</guid>
+        
+        
+        <category>posts</category>
+        
+      </item>
     
       <item>
         <title>Construction</title>
