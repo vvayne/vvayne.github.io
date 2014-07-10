@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wayne</title>
+    <description>Thoughts, projects, and stuff I&#39;m learning about</description>
+    <link>vvayne.github.io/</link>
+    <atom:link href="vvayne.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 10 Jul 2014 02:32:47 -0700</pubDate>
+    <lastBuildDate>Thu, 10 Jul 2014 02:32:47 -0700</lastBuildDate>
+    <generator>Jekyll v2.1.0</generator>
+    
+      <item>
+        <title>Another Post</title>
+        <description>&lt;p&gt;Prototype and iterate. Still building and it’s a lot of fun. The smell of code is very nice. 
+Presence &amp;gt; Productivity. &lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Jul 2014 00:00:00 -0700</pubDate>
+        <link>vvayne.github.io/post2/</link>
+        <guid isPermaLink="true">vvayne.github.io/post2/</guid>
+        
+        
+        <category>vvayne.github.io</category>
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>Construction</title>
+        <description>&lt;p&gt;ToDo On The Website: &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add page and link to projects I’m working on&lt;/li&gt;
+  &lt;li&gt;Add page and link to books I’m currently reading&lt;/li&gt;
+  &lt;li&gt;Change frontpage to feature blog entries &lt;/li&gt;
+  &lt;li&gt;Try tweaking other peoples’ designs &lt;/li&gt;
+  &lt;li&gt;Add a feature that allows people to hover over links and preview what the entry will be about&lt;/li&gt;
+  &lt;li&gt;Add dark/light mode&lt;/li&gt;
+  &lt;li&gt;Add distraction free reading. purely black text on white, or the opposite. &lt;/li&gt;
+  &lt;li&gt;Add personal customization for people when perusing my site &lt;/li&gt;
+  &lt;li&gt;Have links to the book and photo of its cover&lt;/li&gt;
+  &lt;li&gt;Write summaries, insights and reviews of the book&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;Hi all.&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;argc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]){&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;puts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;hello world&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out &lt;a href=&quot;https://vvayne.github.io&quot; title=&quot;alink&quot;&gt;my homepage&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 08 Jul 2014 00:00:00 -0700</pubDate>
+        <link>vvayne.github.io/construction/</link>
+        <guid isPermaLink="true">vvayne.github.io/construction/</guid>
+        
+        
+        <category>vvayne.github.io</category>
+        
+        <category>posts</category>
+        
+      </item>
+    
+  </channel>
+</rss>
