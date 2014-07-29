@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Construction"
+snippet: "Almost done with the "
 date:   2014-07-08 
 categories: posts 
 permalink: /construction/
