@@ -9,3 +9,7 @@ This is where I share some of my thoughts, things I am learning about, and proje
 I currently interested in understanding how the progress of technology will shape humanity and what I can do to help shape technology for the better. 
 
 I am currently a student in college. 
+
+Check out [my projects][https://github.com/vvayne]
+
+[https://github.com/vvayne]: https://github.com/vvayne "alink"

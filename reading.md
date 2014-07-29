@@ -4,10 +4,10 @@ title: Reading
 permalink: /reading/
 ---
 
-#Books currently reading:# 
+#Books#
 
 *	Godel Escher Bach
 *	Consider the Lobster
 *	Hacking: The Art of Expoitation
 
-#Interesting Links and Articles#
+#Links#

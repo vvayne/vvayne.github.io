@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wayne</title>
+    <title>Hi I&#39;m Wayne</title>
     <description>Thoughts, projects, and stuff I&#39;m learning about</description>
     <link>vvayne.github.io/</link>
     <atom:link href="vvayne.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 10 Jul 2014 02:53:24 -0700</pubDate>
-    <lastBuildDate>Thu, 10 Jul 2014 02:53:24 -0700</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2014 17:40:48 -0700</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2014 17:40:48 -0700</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
         <title>Another Post</title>
-        <description>&lt;p&gt;Prototype and iterate. Still building and it’s a lot of fun. The smell of code is very nice. 
-Presence &amp;gt; Productivity. &lt;/p&gt;
+        <description>&lt;p&gt;Prototype and iterate. Still building and it’s a lot of fun. The smell of code is very nice.&lt;/p&gt;
+
+&lt;p&gt;Presence &amp;gt; Productivity. &lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Jul 2014 00:00:00 -0700</pubDate>
         <link>vvayne.github.io/post2/</link>

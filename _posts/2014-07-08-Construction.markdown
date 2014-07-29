@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Construction"
+snippet: "Almost done with the website!"
 date:   2014-07-08 
 categories: posts 
 permalink: /construction/
@@ -8,7 +9,7 @@ permalink: /construction/
 
 ToDo On The Website: 
 
-+ 	Add page and link to projects I'm working on
++	Add page and link to projects I'm working on
 +	Add page and link to books I'm currently reading
 +	Change frontpage to feature blog entries 
 +	Try tweaking other peoples' designs 
