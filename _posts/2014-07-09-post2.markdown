@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Another Post"
-snippet: "Presence > Productivity"
+title:  "Words of Wisdom"
 date:   2014-07-09 
 categories: posts 
-permalink: /post2/
+permalink: /wordsofwisdom/
 ---
 
-Prototype and iterate. Still building and it's a lot of fun. The smell of code is very nice.
+Presence > Productivity. Be who you want to be. Be the type of person that accomplsihes goals, that is attentive, that has mastery over the mind, that can think through a problem, that can perservere. You are that type of 
+person. You are that person.
 
-Presence > Productivity. 
+Everyday, you are getting better. You are growing. 
+Focus Focus Focus

@@ -5,19 +5,33 @@
     <description>Thoughts, projects, and stuff I&#39;m learning about</description>
     <link>vvayne.github.io/</link>
     <atom:link href="vvayne.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 28 Jul 2014 19:50:01 -0700</pubDate>
-    <lastBuildDate>Mon, 28 Jul 2014 19:50:01 -0700</lastBuildDate>
+    <pubDate>Thu, 31 Jul 2014 15:31:15 -0700</pubDate>
+    <lastBuildDate>Thu, 31 Jul 2014 15:31:15 -0700</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
-        <title>Another Post</title>
-        <description>&lt;p&gt;Prototype and iterate. Still building and it’s a lot of fun. The smell of code is very nice.&lt;/p&gt;
+        <title>What to Write About</title>
+        <description>&lt;h1 id=&quot;potential-topics-to-write-about&quot;&gt;Potential topics to write about&lt;/h1&gt;
 
-&lt;p&gt;Presence &amp;gt; Productivity. &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;how I learned how to program&lt;/li&gt;
+  &lt;li&gt;how I stay healthy &lt;/li&gt;
+  &lt;li&gt;how to get interested in something &lt;/li&gt;
+  &lt;li&gt;heuristic for whether something is actually useful&lt;/li&gt;
+  &lt;li&gt;how to think about computer science&lt;/li&gt;
+  &lt;li&gt;motivation behind things (money) &lt;/li&gt;
+  &lt;li&gt;tutorial on how to learn (four stages of competency)&lt;/li&gt;
+  &lt;li&gt;on being productive&lt;/li&gt;
+  &lt;li&gt;what I’m currently interested in&lt;/li&gt;
+  &lt;li&gt;on self-direction&lt;/li&gt;
+  &lt;li&gt;on nineteen years of living&lt;/li&gt;
+  &lt;li&gt;on growing up in Troy, Michigan or in a competitive environment&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
-        <pubDate>Wed, 09 Jul 2014 00:00:00 -0700</pubDate>
-        <link>vvayne.github.io/post2/</link>
-        <guid isPermaLink="true">vvayne.github.io/post2/</guid>
+        <pubDate>Thu, 31 Jul 2014 00:00:00 -0700</pubDate>
+        <link>vvayne.github.io/what/</link>
+        <guid isPermaLink="true">vvayne.github.io/what/</guid>
         
         
         <category>posts</category>
@@ -25,34 +39,16 @@
       </item>
     
       <item>
-        <title>Construction</title>
-        <description>&lt;p&gt;ToDo On The Website: &lt;/p&gt;
+        <title>Words of Wisdom</title>
+        <description>&lt;p&gt;Presence &amp;gt; Productivity. Be who you want to be. Be the type of person that accomplsihes goals, that is attentive, that has mastery over the mind, that can think through a problem, that can perservere. You are that type of 
+person. You are that person.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Add page and link to projects I’m working on&lt;/li&gt;
-  &lt;li&gt;Add page and link to books I’m currently reading&lt;/li&gt;
-  &lt;li&gt;Change frontpage to feature blog entries &lt;/li&gt;
-  &lt;li&gt;Try tweaking other peoples’ designs &lt;/li&gt;
-  &lt;li&gt;Add a feature that allows people to hover over links and preview what the entry will be about&lt;/li&gt;
-  &lt;li&gt;Add dark/light mode&lt;/li&gt;
-  &lt;li&gt;Add distraction free reading. purely black text on white, or the opposite. &lt;/li&gt;
-  &lt;li&gt;Add personal customization for people when perusing my site &lt;/li&gt;
-  &lt;li&gt;Have links to the book and photo of its cover&lt;/li&gt;
-  &lt;li&gt;Write summaries, insights and reviews of the book&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;code&gt;Hi all.&lt;/code&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;argc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]){&lt;/span&gt;
-	&lt;span class=&quot;n&quot;&gt;puts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;hello world&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out &lt;a href=&quot;https://vvayne.github.io&quot; title=&quot;alink&quot;&gt;my homepage&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;Everyday, you are getting better. You are growing. 
+Focus Focus Focus&lt;/p&gt;
 </description>
-        <pubDate>Tue, 08 Jul 2014 00:00:00 -0700</pubDate>
-        <link>vvayne.github.io/construction/</link>
-        <guid isPermaLink="true">vvayne.github.io/construction/</guid>
+        <pubDate>Wed, 09 Jul 2014 00:00:00 -0700</pubDate>
+        <link>vvayne.github.io/wordsofwisdom/</link>
+        <guid isPermaLink="true">vvayne.github.io/wordsofwisdom/</guid>
         
         
         <category>posts</category>

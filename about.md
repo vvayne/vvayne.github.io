@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
----
+--- 
 
-This is where I share some of my thoughts, things I am learning about, and projects I'm working on. 
+##About##
 
-I currently interested in understanding how the progress of technology will shape humanity and what I can do to help shape technology for the better. 
+Hi, my name is Wayne. 
 
-I am currently a student in college. 
+My [github][git] -- not a lot...yet
 
-Check out [my projects][https://github.com/vvayne]
-
-[https://github.com/vvayne]: https://github.com/vvayne 
+[git]: https://github.com/vvayne 

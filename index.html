@@ -6,15 +6,24 @@ layout: default
 
   <!-- <h1>Posts</h1> -->
 
-  <ul class="posts">
+  <div class="posts">
     {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+    	<div class = "box-content">
+    		<div class ="post-title">{{ post.title }}</div>
+        	<div class="post-date">{{ post.date | date: "%b %Y" }} </div>
+        	<span class = "excerpt"> {{post.excerpt}} </span>
 
+    	</div>
+    </a>
+    {% endfor %}
 <!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
  -->
 </div>
+
+
+
+ <!-- <a class="post-link" href="/construction/" style="position: absolute; width: 400px; right: 50px; top: 50px;">
+
+ 	 <a class="post-link" href="/post2/"style=" position: absolute; width: 340px; left: 0px; top: 50px;">
+ -->

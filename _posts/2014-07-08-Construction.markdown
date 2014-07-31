@@ -1,33 +1,24 @@
 ---
 layout: post
-title:  "Construction"
-snippet: "Almost done with the "
-date:   2014-07-08 
+title:  "What to Write About"
+date:   2014-07-31
 categories: posts 
-permalink: /construction/
+permalink: /what/
 ---
+Potential topics to write about
+=====================================
 
-ToDo On The Website: 
++ how I learned how to program
++ how I stay healthy 
++ how to get interested in something 
++ heuristic for whether something is actually useful
++ how to think about computer science
+- motivation behind things (money) 
+- tutorial on how to learn (four stages of competency)
+- on being productive
+- what I'm currently interested in
+- on self-direction
+- on nineteen years of living
+- on growing up in Troy, Michigan or in a competitive environment
 
-+ 	Add page and link to projects I'm working on
-+	Add page and link to books I'm currently reading
-+	Change frontpage to feature blog entries 
-+	Try tweaking other peoples' designs 
-+	Add a feature that allows people to hover over links and preview what the entry will be about
-+ 	Add dark/light mode
-+	Add distraction free reading. purely black text on white, or the opposite. 
-+	Add personal customization for people when perusing my site 
-+	Have links to the book and photo of its cover
-+	Write summaries, insights and reviews of the book
 
-
-`Hi all.`
-{% highlight C %}
-int main(int argc, char* argv[]){
-	puts("hello world");
-}
-{% endhighlight %}
-
-Check out [my homepage][vvayne.github.io]
-
-[vvayne.github.io]: https://vvayne.github.io "alink"
