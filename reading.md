@@ -4,20 +4,18 @@ title: Reading
 permalink: /reading/
 ---
 
-#Books I'm Currently Reading#
+##Books I'm Reading##
 
 *	Godel Escher Bach
 *	Brief Interviews with Hideous Men
 *	Hacking: The Art of Expoitation
 
-#Links worth clicking#
+##Links##
 
-[Math education][1]
+[Math education: Lockhart's Lament][1]
 
-[Minimal Distraction Layout for Facebook][2]
-
-
+[Hilariously Troll Take On A Standard Joke][2]
 
 
 [1]:https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
-[2]:https://userstyles.org/styles/104007/facebook-minimal-distraction-layout
+[2]:http://www.newyorker.com/magazine/2013/11/18/guy-walks-into-a-bar
