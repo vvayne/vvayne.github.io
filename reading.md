@@ -4,10 +4,20 @@ title: Reading
 permalink: /reading/
 ---
 
-#Books#
+#Books I'm Currently Reading#
 
 *	Godel Escher Bach
-*	Consider the Lobster
+*	Brief Interviews with Hideous Men
 *	Hacking: The Art of Expoitation
 
-#Links#
+#Links worth clicking#
+
+[Math education][1]
+
+[Minimal Distraction Layout for Facebook][2]
+
+
+
+
+[1]:https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
+[2]:https://userstyles.org/styles/104007/facebook-minimal-distraction-layout
