@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Learning While Doing and a Minimalist Facebook Layout "
+date:   2014-08-05
+categories: posts 
+permalink: /second/
+published: true
+---
+
+Initially, I had started making a website using wordpress, but I felt like I mind as well learn some HTML/CSS while I'm making a website, so I decided to use something called Jekyll based on a friend's recommendation. 
+
+My process of thinking while building the site was more or less like this: 
+
+Hmm, what does this do? I don't know, let me search it up. Ah, so it does this. What about this? Why does it do this? What do multiple sources say? 
+Let me try doing this. 
+
+...and gradually, like gaining momentum from pieces of a puzzle fitting together, my website was coming together. Understanding something and then immediately doing it hands on is gratifying because you feel like you're learning quickly. And I feel like I was. 
+
+Additionally, I recommend going to websites and using the browser's developer tools to inspect elements and play with how it works. You can view the HTML and CSS all on the same window. Play with turning certain elements off and on or even inject the HTML/CSS with whatever you want. Don't know how something works? Look it up! 
+
+It took me a while to get used to, but once you just play around with it for a while, everything makes sense. And most importantly, it's fun!  
+
+##My New Facebook Layout##
+
+I've learned enough CSS to restyle certain websites to fit my needs by utilizing the chrome extension "Stylish."
+
+Using it, you can use other user made styles or create custom CSS styles that automatically apply to whatever website you want. 
+
+With my fairly novice CSS knowledge, I went onto facebook and just started inspecting elements that I didn't want to see on my news feed page anymore. 
+
+At the end, I just ended up deleting everything from it except for the elements at the blue bar at the top. Additionally, in the middle of the screen, I put words of motivation so that I would be less distracted even if I go on facebook. Link to the layout is at the bottom of the post. 
+
+This greatly decreased my time on facebook, so I'm happy with the practical results my CSS knowledge has given me. 
+
+I still have a couple of things I want to add to spruce up this site, but it's been great learning as I go. 
+
+Hopefully, I'll keep this blog up and keep this up for as long as possible. For now, I'm happy with the fruits of my learning. More to come soon. 
+
+Relevant Links: 
+
+[Facebook Layout] [1]
+
+[1]: https://userstyles.org/styles/104007/facebook-minimal-distraction-layout
