@@ -14,7 +14,7 @@ permalink: /reading/
 
 [Math education: Lockhart's Lament][1]
 
-[Hilariously Troll Take On A Standard Joke][2]
+[Hilarious Take On A Standard Joke][2]
 
 
 [1]:https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
