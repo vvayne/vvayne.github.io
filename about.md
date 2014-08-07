@@ -6,11 +6,12 @@ permalink: /about/
 
 ##About##
 
-Hi, my name is Wayne. I like learning and spending quality time with people.
- 
+Hi,
+
 Welcome to my humble house on the internet. 
 
-My [github][git] -- not a lot...yet
+I'm currently in Mountain View for the summer doing some independent learning.
 
+My [github][git] -- there's not a lot right now. Check back in a couple of months? 
 
 [git]: https://github.com/vvayne 
