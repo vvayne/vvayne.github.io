@@ -26,7 +26,7 @@ I've learned enough CSS to restyle certain websites to fit my needs. I utilize t
 
 With my fairly novice CSS knowledge, I went onto facebook and just started inspecting elements that I didn't want to see on my news feed page anymore. 
 
-At the end, I just ended up deleting everything from it except for the elements at the blue bar at the top. In the middle of the screen, I even learned how to put words of motivation so that I would be less distracted. A link to the layout is at the bottom of the post. 
+At the end, I just ended up deleting everything from it except for the elements at the blue bar at the top. In the middle of the screen, I even learned how to put words of motivation so that I would be less distracted. Here is the [link to the layout][1].
 
 This greatly decreased my time on facebook, so I'm happy with the practical results my CSS knowledge has given me. 
 
@@ -34,9 +34,5 @@ This greatly decreased my time on facebook, so I'm happy with the practical resu
 
 I still have a couple of things I want to add to spruce up this site, but it's been great learning as I go. 
 More posts coming soon. 
-
-Relevant Links: 
-
-[Facebook Layout] [1]
 
 [1]: https://userstyles.org/styles/104007/facebook-minimal-distraction-layout

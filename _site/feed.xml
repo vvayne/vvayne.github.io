@@ -5,8 +5,8 @@
     <description>Thoughts, projects, and stuff I&#39;m learning about</description>
     <link>vvayne.github.io/</link>
     <atom:link href="vvayne.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 06 Aug 2014 19:27:37 -0700</pubDate>
-    <lastBuildDate>Wed, 06 Aug 2014 19:27:37 -0700</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2014 19:33:50 -0700</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2014 19:33:50 -0700</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
@@ -30,7 +30,7 @@ Let me try doing this. &lt;/p&gt;
 
 &lt;p&gt;With my fairly novice CSS knowledge, I went onto facebook and just started inspecting elements that I didn’t want to see on my news feed page anymore. &lt;/p&gt;
 
-&lt;p&gt;At the end, I just ended up deleting everything from it except for the elements at the blue bar at the top. In the middle of the screen, I even learned how to put words of motivation so that I would be less distracted. A link to the layout is at the bottom of the post. &lt;/p&gt;
+&lt;p&gt;At the end, I just ended up deleting everything from it except for the elements at the blue bar at the top. In the middle of the screen, I even learned how to put words of motivation so that I would be less distracted. Here is the &lt;a href=&quot;https://userstyles.org/styles/104007/facebook-minimal-distraction-layout&quot;&gt;link to the layout&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This greatly decreased my time on facebook, so I’m happy with the practical results my CSS knowledge has given me. &lt;/p&gt;
 
@@ -38,10 +38,6 @@ Let me try doing this. &lt;/p&gt;
 
 &lt;p&gt;I still have a couple of things I want to add to spruce up this site, but it’s been great learning as I go. 
 More posts coming soon. &lt;/p&gt;
-
-&lt;p&gt;Relevant Links: &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://userstyles.org/styles/104007/facebook-minimal-distraction-layout&quot;&gt;Facebook Layout&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 06 Aug 2014 00:00:00 -0700</pubDate>
