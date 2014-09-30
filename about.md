@@ -6,14 +6,21 @@ permalink: /about/
 
 ##About##
 
-Hi,
+Welcome to my digital abode. 
 
-Welcome to my humble house on the internet. 
+I'm a Sophomore at Stanford formally studying Computer Science + History and Philosophy. 
 
-I'm currently in Mountain View for the summer doing some independent learning.
+Here's why: 
 
-Want to get in touch? Contact me at wayneshu@stanford.edu
+I enjoy learning about the past and how it has shaped the present. History helps me synthesize current trends about the world for creating some theses I have about the future and original thoughts about the world. 
 
-Here's my [github][git] -- there's not a lot right now. Check back in a couple of months! 
+Every human encounters existential questions: what is a good life? How can I be happy? What brings me meaning? Who am I?
+Questions like these tend to motivate the actions of individuals and society, so philsophy shows mental models to think about human nature at its most fundamental sense. 
+
+And technology will be the building block of society as we navigate this brave new world. Computers have been the crux of our rapid growth in technology. Understanding how computers work and what they can do can help me better think about the progress -- and dangers -- that the future has in store for us. 
+
+Contact me at wayneshu@stanford.edu
+
+Here's my [github][git]. I have some side projects there. 
 
 [git]: https://github.com/vvayne 
