@@ -11,8 +11,6 @@ So I'm new to this whole website/ blog thing. I don't know what I plan to post o
 
 I do hope to contribute something not utterly useless though, whether it's writing about something I recently learn or expressing thoughts about books or links I read. 
 
-This website is more or less still in construction though. I still want to add some things with javascript and maybe try other layouts that make my website more colorful or give the user choices. 
-
-Additionally, this website is not optimized for mobile reading at all; this will have to change. 
+This website is not optimized for mobile reading at all; this will have to change. 
 I'll be putting more posts here soon though. 
 Thanks for visiting.
