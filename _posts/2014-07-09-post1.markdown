@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "First Post"
+title:  "Tasks for The Site"
 date:   2014-08-05 
 categories: posts 
 permalink: /first/
 ---
 
-Hi, so I'm new to this. I don't know what I plan to post on this website or how often I'll do it. 
+
+So I'm new to this whole website/ blog thing. I don't know what I plan to post or how often I'll do it. 
 
 I do hope to contribute something not utterly useless though, whether it's writing about something I recently learn or expressing thoughts about books or links I read. 
 
 This website is more or less still in construction though. I still want to add some things with javascript and maybe try other layouts that make my website more colorful or give the user choices. 
 
-Additionally, this website is not optimized for mobile reading at all; this will have to change, especially during these times. 
-I'll be putting more posts here soon too. 
-
-Thanks for visiting! 
+Additionally, this website is not optimized for mobile reading at all; this will have to change. 
+I'll be putting more posts here soon though. 
+Thanks for visiting.
