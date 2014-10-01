@@ -7,7 +7,7 @@ permalink: /second/
 published: true
 ---
 
-Update: I now have a chrome extension[!][https://chrome.google.com/webstore/detail/minimal-distraction-free/kadeapmlliajjjkckobjffnogoffcjdh]
+Update: I now have a chrome extension [!](https://chrome.google.com/webstore/detail/minimal-distraction-free/kadeapmlliajjjkckobjffnogoffcjdh)
 
 Initially, I had started making this website using Wordpress, but I wanted to learn some HTML/CSS. So, based on a friend's recommendation, I decided to use Jekyll and then further explore HTML/CSS as I was using Jekyll.
 
