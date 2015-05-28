@@ -6,10 +6,6 @@ permalink: /about/
 
 ##About##
 
-Welcome to my digital abode! 
+I like mysteries and finding secrets.
 
 Contact me at wayneshu@stanford.edu
-
-Here's my [github][git]. I have some side projects there. 
-
-[git]: https://github.com/vvayne 

@@ -4,7 +4,7 @@ title:  "Learning By Doing and Making a Distraction-Free Facebook Layout "
 date:   2014-08-06
 categories: posts 
 permalink: /second/
-published: true
+published: false
 ---
 
 Initially, I had started making this website using Wordpress. I wanted to learn more HTML/CSS though and not totally rely on wordpress, so based on a friend's recommendation, I decided to use a Jekyll-Github platform. This is a nice balance that lets me play around with the HTML/CSS while giving me the ability to write using Markdown. 
