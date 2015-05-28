@@ -3,29 +3,11 @@
   <channel>
     <title>Wayne</title>
     <description>Thoughts, projects, and stuff I&#39;m learning about</description>
-    <link>vvayne.github.io/</link>
-    <atom:link href="vvayne.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 28 May 2015 03:16:20 -0700</pubDate>
-    <lastBuildDate>Thu, 28 May 2015 03:16:20 -0700</lastBuildDate>
+    <link>vvayne.github.io/about//</link>
+    <atom:link href="vvayne.github.io/about//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 28 May 2015 03:19:14 -0700</pubDate>
+    <lastBuildDate>Thu, 28 May 2015 03:19:14 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>Digitalhistory</title>
-        <description>&lt;p&gt;I decided to be more adventurous with the type of courses I took this quarter. Instead of taking well-known courses
-that everyone gravitates toward, I took more obscure courses that didn’t have the 300+ number of people signed up.&lt;/p&gt;
-
-&lt;p&gt;Introduction to American Law&lt;/p&gt;
-
-&lt;p&gt;Digital History&lt;/p&gt;
-
-&lt;p&gt;Social Media and Online Learning&lt;/p&gt;
-</description>
-        <pubDate>Fri, 17 Oct 2014 00:00:00 -0700</pubDate>
-        <link>vvayne.github.io/2014/10/17/digitalHistory/</link>
-        <guid isPermaLink="true">vvayne.github.io/2014/10/17/digitalHistory/</guid>
-        
-        
-      </item>
     
   </channel>
 </rss>
