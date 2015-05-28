@@ -6,6 +6,4 @@ permalink: /about/
 
 ##About##
 
-I like mysteries and finding secrets.
-
-Contact me at wayneshu@stanford.edu
+Currently working on Parlio
